@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    font-size:15px;
+    color: azure;
+}
+p:hover{
+    color: blue
+}
